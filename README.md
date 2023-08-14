@@ -1,0 +1,5 @@
+# Recipe-Recommender-System-using-K-Means-Clustering
+- Developed a personalized recipe recommendation system using K-Means clustering. - Demonstrated skills in machine learning and data visualization.
+
+-This recipe recommender project utilized various Python libraries for data analysis and machine learning. Key packages included pandas for data manipulation, matplotlib for data visualization, and scikit-learn for implementing the K-Means clustering algorithm. The project involved data cleaning, normalization, and clustering to create a personalized recipe recommendation system based on user ratings.This recipe recommender project utilized various Python libraries for data analysis and machine learning. Key packages included pandas for data manipulation, matplotlib for data visualization, and scikit-learn for implementing the K-Means clustering algorithm. The project involved data cleaning, normalization, and clustering to create a personalized recipe recommendation system based on user ratings.
+-Skills: Predictive Modeling · Machine Learning · Scikit-Learn · Matplotlib · Data Visualization
